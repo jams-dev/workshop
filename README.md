@@ -1,3 +1,3 @@
 ### Git intro course
 
-hello 
+## section by Joost
